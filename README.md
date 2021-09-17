@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakobKenny
 - 👀 I’m interested in blockchain technology, cryptocurrency, and artificial intelligence
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and the basics of coding
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
